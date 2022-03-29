@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57908092860",
+    "project_id": "androfb-b9b39",
+    "storage_bucket": "androfb-b9b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57908092860:android:6c3b4fe618b4ff381e15b9",
+        "android_client_info": {
+          "package_name": "com.fantappstic.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57908092860-krl13i97f7ll8de3js6ql5nmtoaock2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJpH-P4AOQ1jyxf9ACt3yhiTlR7v7gc3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57908092860-krl13i97f7ll8de3js6ql5nmtoaock2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
